@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+    border-radius: 30px;
+}
+
+form {
+    width: auto;
+    background-color: grey;
+}
